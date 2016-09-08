@@ -113,7 +113,7 @@ python=/usr/bin/python
 SYNTAXNET_HOME=${PDIR}
 BINDIR=$SYNTAXNET_HOME/bazel-bin/syntaxnet
 
-CORPUS_DIR=${CDIR}/UD_English
+CORPUS_DIR=${CDIR}/UD_Latin-PROIEL
 
 CONTEXT=${CORPUS_DIR}/context.pbtxt
 TMP_DIR=${CORPUS_DIR}/tmp/syntaxnet-output
