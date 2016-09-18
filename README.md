@@ -147,6 +147,6 @@ brought VBD ROOT
 The model are trained on [Universal Dependencies](http://universaldependencies.org/) v1.3. 
 The table shows the accuracy values on UD treebanks
 
-Language | No. tokens | POS | fPOS | Morph | UAS | LAS
---------  | :--: | :--: | :--: | :--: | :--: | :--: | :--:
-Ancient_Greek-PROIEL | 18502 | 97.14% | 96.97% | 89.77% | 78.74% | 73.15%
+Language | No. tokens | POS | fPOS |
+--------  | :--: | :--: | :--: |
+Ancient_Greek-PROIEL | 18502 | 97.14% | 96.97% |
